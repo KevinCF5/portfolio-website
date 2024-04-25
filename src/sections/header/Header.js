@@ -11,7 +11,7 @@ const Header = () => {
         </div>
         <h3>Kévin Mateus</h3>
         <p>
-          A passionate <span>Full Stack Developer</span> from Porto
+          A passionate <span>Full Stack Developer</span> from Porto, Portugal
         </p>
         <div className="header-cta">
           <a href="#contact" className="btn primary">
